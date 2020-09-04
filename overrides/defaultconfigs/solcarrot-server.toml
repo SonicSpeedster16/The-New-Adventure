@@ -2,9 +2,9 @@
 [milestones]
 	#Number of hearts you gain for reaching a new milestone.
 	#Range: 0 ~ 1000
-	heartsPerMilestone = 2
+	heartsPerMilestone = 1
 	#A list of numbers of unique foods you need to eat to unlock each milestone, in ascending order.
-	milestones = [5, 10, 15, 20, 25]
+	milestones = [15, 30, 45, 60, 75, 90, 105, 120, 135, 150]
 	#Number of hearts you start out with.
 	#Range: 0 ~ 1000
 	baseHearts = 10
@@ -12,9 +12,9 @@
 [filtering]
 	#The minimum hunger value foods need to provide in order to count for milestones, in half drumsticks.
 	#Range: 0 ~ 1000
-	minimumFoodValue = 1
+	minimumFoodValue = 2
 	#Foods in this list won't affect the player's health nor show up in the food book.
-	blacklist = []
+	blacklist = ["minecraft:poisonous_potato", "minecraft:rotten_flesh", "minecraft:porkchop", "minecraft:tropical_fish", "minecraft:pufferfish", "minecraft:salmon", "minecraft:beef", "minecraft:mutton", "minecraft:chicken", "minecraft:rabbit", "minecraft:cod", "xlfoodmod:raw_chicken_wing", "xlfoodmod:ground_beef", "xlfoodmod:dough", "rats:raw_rat", "rats:ratfish", "rats:contaminated_food", "aquaculture:fish_fillet_raw", "silentgems:uncooked_fishy_stew", "silentgems:uncooked_meaty_stew"]
 	#When this list contains anything, the blacklist is ignored and instead only foods from here count.
 	whitelist = []
 
