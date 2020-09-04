@@ -14,7 +14,7 @@
 		[worldgen.v1.copper_ore]
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#
 			#Range: > 0
 			clusterSize = 18
@@ -31,7 +31,7 @@
 		[worldgen.v1.copper_ore_ocean]
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#
 			#Range: > 0
 			clusterSize = 15

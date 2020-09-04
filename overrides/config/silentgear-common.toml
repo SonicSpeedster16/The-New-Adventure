@@ -43,7 +43,7 @@
 #Changes require a restart!
 [nerfedItems]
 	#Enable this feature. If false, the other settings in this category are ignored.
-	enabled = false
+	enabled = true
 	#Multiplies max durability by this value. If the result would be zero, a value of 1 is assigned.
 	#Range: 0.0 ~ 1.0
 	durabilityMultiplier = 0.05

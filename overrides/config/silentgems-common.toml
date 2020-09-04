@@ -123,7 +123,7 @@
 
 [teleporter]
 	#Only allow teleporters to be linked to teleporters made with the same gem
-	sameGemOnly = false
+	sameGemOnly = true
 	#Allow teleporters to link to teleporter anchors
 	allowAnchors = true
 
@@ -158,7 +158,7 @@
 	#Durability of return home charms. 0 means unlimited. Charms with durability will still generate chaos when used.
 	maxUses = 0
 	#Only allow return home charms to be bound to teleporters made with the same gem
-	sameGemOnly = false
+	sameGemOnly = true
 	#Allow return home charms to be bound to teleporter anchors
 	allowAnchors = true
 	#The time (in ticks) the player must use a return home charm to activate it

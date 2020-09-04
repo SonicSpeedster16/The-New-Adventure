@@ -46,7 +46,7 @@ showHorseStatSetting = "EXTENDED"
 showSilverfish = "NOT"
 #The distance to the left side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
-boxLeftX = 5
+boxLeftX = -1
 #The distance to the right side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
 boxRightX = -1
@@ -67,7 +67,7 @@ boxThickness = 2
 #Range: 0 ~ 20
 boxOffset = 0
 #If true show liquid information when the probe hits liquid first
-showLiquids = false
+showLiquids = true
 #Toggle default probe visibility (client can override)
 isVisible = true
 #If true then the probe hotkey must be held down to show the tooltip

@@ -8,11 +8,11 @@
 	#Enables wearing backpack directly from ground
 	enableBackpackBlockWearable = true
 	#Enables backpacks spawning in loot chests
-	enableLoot = true
+	enableLoot = false
 	#Enables button in backpack gui, which allows to empty tank
 	enableEmptyTankButton = true
 	enableSleepingBagSpawnPoint = false
 	disableCrafting = false
 	#Range: > 250
-	tanksCapacity = 4000
+	tanksCapacity = 6000
 

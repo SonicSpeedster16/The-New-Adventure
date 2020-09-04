@@ -10,7 +10,7 @@
 	#Range: 1.0E-4 ~ 1.0
 	dungeon_probability = 0.35
 	#If this is set to false, no dungeons can be generated outside the overworld.
-	ignore_dimension = true
+	ignore_dimension = false
 
 #Dungeon Settings
 [dungeon]
