@@ -5,5 +5,6 @@
 print("==== Initializing initialinventory.zs ====");
 
 mods.initialinventory.InvHandler.addStartingItem("spiceoflife", <item:solcarrot:food_book>);
+mods.initialinventory.InvHandler.addStartingItem("spiceoflife", <item:doggytalents:doggy_charm>);
 
 print("==== Initialized initialinventory.zs ====");
