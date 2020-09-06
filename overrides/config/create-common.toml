@@ -57,7 +57,7 @@
 			maxHeight = 70
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#
 			#Range: > 0
 			clusterSize = 14

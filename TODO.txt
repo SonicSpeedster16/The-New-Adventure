@@ -1,4 +1,5 @@
-Add Mining Dimension?
-Fix Ore Generation
-Silent tool nerfing?
+Fix Ore Generation (only Silent's' generates duplicates)
 Go through mods
+Shapeless recipes (ingots, ores, salt)
+Ice and Fire?
+oredict/tags
