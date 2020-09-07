@@ -22,5 +22,5 @@
 		#Range: > 0
 		worldGenFrequency = 30
 		#The Name Generator will pick from these names until they have all been used, then it will generate random ones again.
-		customWaystoneNames = []
+		customWaystoneNames = ["Mystic Ruins", "Green Hill Zone", "Soleanna", "Pumpkin Hill", "Splash Hill Zone", "Kingdom Valley", "Diamond Dust Zone", "Stardust Speedway", "The ARK", "Spagonia", "Studiopolis Zone", "Radical City", "Press Garden Zone", "Lost Valley", "Mazuri", "Station Square", "Emerald Hill Zone", "Green Grove Zone", "Toxic Caves", "Azure Lake", "Apotos", "Lost World", "Sylvania Castle Zone", "Sunset Hill Zone", "Angel Island Zone", "Grand Metropolis", "Emerald Coast", "Dry Lagoon", "Sunset Heights", "Seaside Hill", "Radiant Emerald", "Crisis City", "Meteor Herd", "Egg Gate", "Hydrocity Zone", "Ice Cap Zone", "Mushroom Hill Zone", "Lava Reef Zone"]
 
