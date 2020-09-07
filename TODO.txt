@@ -1,4 +1,3 @@
-Fix Ore Generation (only Silent's' generates duplicates)
 Go through mods
 Shapeless recipes (ingots, ores, salt)
 Ice and Fire?
