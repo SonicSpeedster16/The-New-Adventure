@@ -1,0 +1,170 @@
+[
+  {
+    "tag": "forge:nuggets/lead",
+    "prefer": "silents_mechanisms:lead_nugget",
+    "exclude": [
+      "silents_mechanisms:lead_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/silver",
+    "prefer": "silents_mechanisms:silver_ingot",
+    "exclude": [
+      "silents_mechanisms:silver_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/silver",
+    "prefer": "silents_mechanisms:silver_nugget",
+    "exclude": [
+      "silents_mechanisms:silver_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/lead",
+    "prefer": "silents_mechanisms:lead_ingot",
+    "exclude": [
+      "silents_mechanisms:lead_ingot"
+    ]
+  },
+  {
+    "tag": "forge:ingots/tin",
+    "prefer": "silents_mechanisms:tin_ingot",
+    "exclude": [
+      "silents_mechanisms:tin_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/copper",
+    "prefer": "silents_mechanisms:copper_nugget",
+    "exclude": [
+      "silents_mechanisms:copper_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/copper",
+    "prefer": "silents_mechanisms:copper_ingot",
+    "exclude": [
+      "silents_mechanisms:copper_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/tin",
+    "prefer": "silents_mechanisms:tin_nugget",
+    "exclude": [
+      "silents_mechanisms:tin_nugget"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/zinc",
+    "prefer": "silents_mechanisms:zinc_nugget",
+    "exclude": [
+      "silents_mechanisms:zinc_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/zinc",
+    "prefer": "silents_mechanisms:zinc_ingot",
+    "exclude": [
+      "silents_mechanisms:zinc_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/brass",
+    "prefer": "silents_mechanisms:brass_nugget",
+    "exclude": [
+      "silents_mechanisms:brass_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/brass",
+    "prefer": "silents_mechanisms:brass_ingot",
+    "exclude": [
+      "silents_mechanisms:brass_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/aluminum",
+    "prefer": "silents_mechanisms:aluminum_nugget",
+    "exclude": [
+      "silents_mechanisms:aluminum_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/aluminum",
+    "prefer": "silents_mechanisms:aluminum_ingot",
+    "exclude": [
+      "silents_mechanisms:aluminum_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/nickel",
+    "prefer": "silents_mechanisms:nickel_nugget",
+    "exclude": [
+      "silents_mechanisms:nickel_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/nickel",
+    "prefer": "silents_mechanisms:nickel_ingot",
+    "exclude": [
+      "silents_mechanisms:nickel_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/uranium",
+    "prefer": "silents_mechanisms:uranium_nugget",
+    "exclude": [
+      "silents_mechanisms:uranium_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/uranium",
+    "prefer": "silents_mechanisms:uranium_ingot",
+    "exclude": [
+      "silents_mechanisms:uranium_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/electrum",
+    "prefer": "silents_mechanisms:electrum_nugget",
+    "exclude": [
+      "silents_mechanisms:electrum_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/electrum",
+    "prefer": "silents_mechanisms:electrum_ingot",
+    "exclude": [
+      "silents_mechanisms:electrum_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/steel",
+    "prefer": "silents_mechanisms:steel_nugget",
+    "exclude": [
+      "silents_mechanisms:steel_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/steel",
+    "prefer": "silents_mechanisms:steel_ingot",
+    "exclude": [
+      "silents_mechanisms:steel_ingot"
+    ]
+  },
+  {
+    "tag": "forge:nuggets/bronze",
+    "prefer": "silents_mechanisms:bronze_nugget",
+    "exclude": [
+      "silents_mechanisms:bronze_nugget"
+    ]
+  },
+  {
+    "tag": "forge:ingots/bronze",
+    "prefer": "silents_mechanisms:bronze_ingot",
+    "exclude": [
+      "silents_mechanisms:bronze_ingot"
+    ]
+  }
+]
