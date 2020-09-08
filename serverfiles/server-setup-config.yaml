@@ -38,7 +38,16 @@ install:
   formatSpecific:
     # optional paramenter used for curse to specify a whole project to ignore (mostly if it is client side only)
     ignoreProject:
-      - 32274
+      - 272515
+      - 250398
+      - 231275
+      - 250419
+      - 325492
+      - 282099
+      - 358191
+      - 305373
+      - 237701
+      - 271740
 
 
   # The base path where the server should be installed to, ~ for current path
