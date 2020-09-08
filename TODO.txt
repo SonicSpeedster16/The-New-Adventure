@@ -1,12 +1,10 @@
 Go through mods
 Shapeless recipes (ingots, ores, salt)
-Ice and Fire?
-Item Collectors?
-Jumbo Furnace?
-Right click harvest mod?
-No Hostiles around campfire?
-Super Multi-Drills?
-PlanTech 2?
-Player Plates?
-Unifix?
 oredict/tags
+Add Ice and Fire
+Add Super Multi-Drills
+Add Unifix
+Item Collectors?
+Right click harvest mod?
+Player Plates?
+
