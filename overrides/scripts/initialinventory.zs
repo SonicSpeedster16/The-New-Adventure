@@ -16,6 +16,7 @@ mods.initialinventory.InvHandler.addStartingItem("immersiveengineeringguide", <i
 mods.initialinventory.InvHandler.addStartingItem("engineersdecorguide", <item:patchouli:guide_book>.withTag({"patchouli:book": "engineersdecor:engineersdecor_manual" as string}), 13);
 mods.initialinventory.InvHandler.addStartingItem("modularroutersguide", <item:patchouli:guide_book>.withTag({"patchouli:book": "modularrouters:book" as string}), 14);
 mods.initialinventory.InvHandler.addStartingItem("advancedtransportguide", <item:patchouli:guide_book>.withTag({"patchouli:book": "transport:guide" as string}), 15);
+mods.initialinventory.InvHandler.addStartingItem("powahmanual", <item:powah:book>, 16);
 
 # Server items
 mods.initialinventory.InvHandler.addStartingItem("spotloader", <item:chickenchunks:spot_loader>, 3);
