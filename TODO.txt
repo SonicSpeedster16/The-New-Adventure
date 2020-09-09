@@ -1,4 +1,3 @@
-oredict/tags
 Add Ice and Fire
 Add Super Multi-Drills
 
