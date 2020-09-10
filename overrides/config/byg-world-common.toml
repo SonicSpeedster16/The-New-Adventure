@@ -28,7 +28,7 @@
 #Other Dimension Biomes
 [Dimension_Settings]
 	#Add external Nether biomes by their registry names in a commented list.
-	ExternalNetherBiomes = ""
+	ExternalNetherBiomes = "netherex:biomeregistry1,netherex:biomeregistry2"
 	#Add external End biomes by their registry names in a commented list.
 	ExternalEndBiomes = ""
 	#Control the size of nether biomes.
