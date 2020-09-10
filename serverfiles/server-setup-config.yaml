@@ -48,6 +48,7 @@ install:
       - 305373
       - 237701
       - 271740
+      - 357256
 
 
   # The base path where the server should be installed to, ~ for current path
