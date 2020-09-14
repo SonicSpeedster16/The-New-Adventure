@@ -5,6 +5,15 @@
 
 # ================= Mod Changes ================ #
 
+- Added Absent By Design 1.1.0
+- Updated CC: Tweaked (1.91.0 > 1.92.0)
+- Updated Dungeon Crawl (2.0.2 > 2.1.0)
+- Updated Oh The Biomes You'll Go (1.0.11 > 1.0.11-2)
+- Updated PackMenu (1.2.7 > 1.2.8)
+- Updated Simple Magnets (1.0.6 > 1.0.7)
+- Updated Transport (2.4.0 > 2.4.1)
+- Updated Wither Skeleton Tweaks (4.0.0 > 4.0.2)
+- Updated Xaero's Minimap (20.20.3 > 20.21.0)
 
 # =============== Config Changes =============== #
 
