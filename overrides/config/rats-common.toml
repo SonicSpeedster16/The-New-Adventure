@@ -55,7 +55,7 @@
 	"Rat Immediate Despawn Distance" = 144.0
 	#A seperate random roll that only spawns pipers if a one-out-of-X chance, x being this number. raise this number to make them more rare.
 	#Range: > 0
-	"Piper Spawn Decrease" = 5
+	"Piper Spawn Decrease" = 15
 	#How much kRF (1000 RF) a rat with an advanced energy transfer upgrade can transport at a time.
 	#Range: > 1
 	"Rat RF Transfer Rate Advanced (kRF)" = 500
