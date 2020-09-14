@@ -17,6 +17,7 @@
 
 # =============== Config Changes =============== #
 
+- Made Pied Pipers less likely to spawn.
 
 # =============== Script Changes =============== #
 
