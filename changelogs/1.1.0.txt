@@ -6,14 +6,23 @@
 # ================= Mod Changes ================ #
 
 - Added Absent By Design 1.1.0
+- Updated Ars Nouveau (0.14 > 0.17.1)
 - Updated CC: Tweaked (1.91.0 > 1.92.0)
 - Updated Dungeon Crawl (2.0.2 > 2.1.0)
+- Updated McJtyLib (4.1.7 > 4.1.8)
 - Updated Oh The Biomes You'll Go (1.0.11 > 1.0.11-2)
 - Updated PackMenu (1.2.7 > 1.2.8)
+- Updated RFTools Base (1.1.6 > 1.1.7)
+- Updated RFTools Builder (2.1.8 > 2.1.9)
+- Updated RFTools Control (3.0.7 > 3.0.8)
+- Updated RFTools Power (2.2.4 > 2.2.5)
+- Updated RFTools Storage (1.1.9 > 1.1.10)
+- Updated RFTools Utility (2.1.9 > 2.1.10)
 - Updated Simple Magnets (1.0.6 > 1.0.7)
 - Updated Transport (2.4.0 > 2.4.1)
 - Updated Wither Skeleton Tweaks (4.0.0 > 4.0.2)
 - Updated Xaero's Minimap (20.20.3 > 20.21.0)
+- Updated XNet (2.1.10 > 2.1.11)
 
 # =============== Config Changes =============== #
 
