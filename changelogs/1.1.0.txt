@@ -6,6 +6,7 @@
 # ================= Mod Changes ================ #
 
 - Added Absent By Design 1.1.0
+- Added Performant 3.11m
 - Updated Ars Nouveau (0.14 > 0.17.1)
 - Updated CC: Tweaked (1.91.0 > 1.92.0)
 - Updated Dungeon Crawl (2.0.2 > 2.1.0)
@@ -23,6 +24,7 @@
 - Updated Wither Skeleton Tweaks (4.0.0 > 4.0.2)
 - Updated Xaero's Minimap (20.20.3 > 20.21.0)
 - Updated XNet (2.1.10 > 2.1.11)
+- Removed Lithium (no longer maintained)
 
 # =============== Config Changes =============== #
 
