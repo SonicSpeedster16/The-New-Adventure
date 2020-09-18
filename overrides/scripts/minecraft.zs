@@ -11,4 +11,10 @@ craftingTable.addShaped("Lantern_Alt", <item:minecraft:lantern>, [
     [<item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>]
 ]);
 
+# Add method for converting Zombie Leather to vanilla Leather
+craftingTable.addShaped("Zombie_Leather_conv", <item:minecraft:leather>, [
+    [<item:silents_mechanisms:zombie_leather>, <item:silents_mechanisms:zombie_leather>],
+    [<item:silents_mechanisms:zombie_leather>, <item:silents_mechanisms:zombie_leather>]
+]);
+
 print("==== Initialized minecraft.zs ====");
