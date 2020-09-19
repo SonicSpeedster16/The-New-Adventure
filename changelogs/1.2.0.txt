@@ -13,5 +13,6 @@
 
 - Lanterns can now be crafted with stone torches.
 - Zombie leather can be converted into vanilla leather.
+- Fix sleeping bag recipes.
 
 # ============================================== #
