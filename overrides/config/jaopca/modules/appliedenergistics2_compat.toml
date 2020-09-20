@@ -4,6 +4,6 @@
 	materialBlacklist = []
 
 [recipes]
-	#The materials that should not have crushing recipes added.
+	#The materials that should not have grinder recipes added.
 	toDustMaterialBlacklist = []
 
