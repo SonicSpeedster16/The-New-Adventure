@@ -1,0 +1,19 @@
+﻿# ============================================== #
+#      The New Adventure 1.3.0 (XX-XX-2020)      #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+
+# =============== Config Changes =============== #
+
+- Only players who originally place Waystones can rename them.
+- All players can define Waystones as global.
+- Lowered the experience cost of teleporting between Waystones.
+
+
+# =============== Script Changes =============== #
+
+
+# ============================================== #
