@@ -26,5 +26,6 @@
 
 # =============== Script Changes =============== #
 
+- Any Nether Quartz Dust can be used to craft Nether Quartz Seeds.
 
 # ============================================== #
