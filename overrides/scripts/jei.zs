@@ -65,5 +65,6 @@ mods.jei.JEI.hideItem(<item:immersiveengineering:ingot_uranium>);
 mods.jei.JEI.hideItem(<item:immersiveengineering:ingot_electrum>);
 mods.jei.JEI.hideItem(<item:immersiveengineering:ingot_steel>);
 mods.jei.JEI.hideItem(<item:silentgems:silver_ingot>);
+mods.jei.JEI.hideItem(<item:appliedenergistics2:silicon>);
 
 print("==== Initialized jei.zs ====");
