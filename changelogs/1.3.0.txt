@@ -6,6 +6,7 @@
 # ================= Mod Changes ================ #
 
 - Added Flexible Marker 4.2
+- Added Productive Bees 0.3.5
 - Updated Ding (1.1.0 > 1.2.0)
 - Updated Fast Leaf Decay (v22 > v22.1)
 - Updated Miner's Helmet (1.0.8 > 1.0.9)
