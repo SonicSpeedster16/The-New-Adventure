@@ -55,8 +55,7 @@ playerHeads:false
 heightLimit:20
 worldMap:true
 terrainDepth:true
-terrainSlopes:true
-terrainSlopesExperiment:false
+terrainSlopes:2
 mainEntityAs:0
 blockTransparency:true
 waypointOpacityIngame:80
