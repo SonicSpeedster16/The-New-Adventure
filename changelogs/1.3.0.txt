@@ -6,6 +6,7 @@
 # ================= Mod Changes ================ #
 
 - Added Flexible Marker 4.2
+- Added Productive Bees 0.3.5.2
 - Updated Create (0.2.4d > 0.2.4e)
 - Updated Ding (1.1.0 > 1.2.0)
 - Updated Fast Leaf Decay (v22 > v22.1)
