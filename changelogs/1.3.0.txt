@@ -1,5 +1,5 @@
 ﻿# ============================================== #
-#      The New Adventure 1.3.0 (XX-XX-2020)      #
+#      The New Adventure 1.3.0 (09-29-2020)      #
 # ============================================== #
 
 
@@ -33,6 +33,6 @@
 
 - Any Nether Quartz Dust can be used to craft Nether Quartz Seeds.
 - Unified Silicon.
-- Add missing Tags to seeds.
+- Added missing Tags to seeds.
 
 # ============================================== #
