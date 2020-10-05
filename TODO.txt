@@ -1,4 +1,5 @@
 Add Ice and Fire
 Add Super Multi-Drills
-Blacklist raw ghast meat
+Blacklist raw ghast & aquaculture meats
 Add recipes for alloy dusts
+Remove worn notebook from initial inventory

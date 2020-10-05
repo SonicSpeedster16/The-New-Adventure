@@ -1,0 +1,26 @@
+﻿# ============================================== #
+#      The New Adventure 1.4.0 (XX-XX-2020)      #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+- Added GeckoLib 2.0.0
+- Updated Absent by Design (1.1.0 > 1.1.1)
+- Updated Aquaculture 2 (2.0.16 > 2.0.20)
+- Updated Ars Nouveau (0.17.1 > 0.20.3)
+- Updated CC: Tweaked (1.92.0 > 1.93.0)
+- Updated Immersive Engineering (4.0.1-119 > 4.1.0-122)
+- Updated Minecolonies (0.13.272 > 0.13.314)
+- Updated Productive Bees (0.3.5.2 > 0.4.0)
+- Updated RFTools Builder (2.1.10 > 2.1.11)
+- Updated Structurize (0.13.64 > 0.13.91)
+- Updated Xaero's Minimap (20.23.0 > 20.24.0)
+
+# =============== Config Changes =============== #
+
+
+# =============== Script Changes =============== #
+
+
+# ============================================== #
