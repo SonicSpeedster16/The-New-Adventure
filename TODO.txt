@@ -1,2 +1,4 @@
 Add Ice and Fire
 Add Super Multi-Drills
+Blacklist raw ghast meat
+Add recipes for alloy dusts
