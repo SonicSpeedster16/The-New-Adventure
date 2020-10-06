@@ -4,11 +4,6 @@
 
 print("==== Initializing jaopca.zs ====");
 
-# Add missing tags
-//<tag:forge:dusts/platinum>.addItems([<item:mmko:dust_platinum>]);
-//<tag:forge:dusts/silver>.addItems([<item:mmko:dust_silver>]);
-//<tag:forge:dusts/zinc>.addItems([<item:mmko:dust_zinc>]);
-
 # Add crafting recipes as an alternate means of obtaining alloys
 
 craftingTable.addShaped("Enderium_Dust", <item:silents_mechanisms:enderium_dust> * 4, [

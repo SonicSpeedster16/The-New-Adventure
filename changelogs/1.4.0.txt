@@ -16,6 +16,7 @@
 - Updated RFTools Builder (2.1.10 > 2.1.11)
 - Updated Structurize (0.13.64 > 0.13.91)
 - Updated Xaero's Minimap (20.23.0 > 20.24.0)
+- Removed More Mekanism Ores
 
 # =============== Config Changes =============== #
 

@@ -47,8 +47,6 @@ mods.jei.JEI.hideItem(<item:silentgems:silver_ore>);
 # Hide duplicate ingots and items
 mods.jei.JEI.hideItem(<item:tmechworks:copper_ingot>);
 mods.jei.JEI.hideItem(<item:tmechworks:aluminum_ingot>);
-mods.jei.JEI.hideItem(<item:mmko:ingot_zinc>);
-mods.jei.JEI.hideItem(<item:mmko:ingot_silver>);
 mods.jei.JEI.hideItem(<item:mekanism:ingot_bronze>);
 mods.jei.JEI.hideItem(<item:mekanism:ingot_steel>);
 mods.jei.JEI.hideItem(<item:mekanism:ingot_copper>);
