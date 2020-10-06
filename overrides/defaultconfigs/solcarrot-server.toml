@@ -14,7 +14,7 @@
 	#Range: 0 ~ 1000
 	minimumFoodValue = 2
 	#Foods in this list won't affect the player's health nor show up in the food book.
-	blacklist = ["minecraft:poisonous_potato", "minecraft:rotten_flesh", "minecraft:porkchop", "minecraft:tropical_fish", "minecraft:pufferfish", "minecraft:salmon", "minecraft:beef", "minecraft:mutton", "minecraft:chicken", "minecraft:rabbit", "minecraft:cod", "xlfoodmod:raw_chicken_wing", "xlfoodmod:ground_beef", "xlfoodmod:dough", "rats:raw_rat", "rats:ratfish", "rats:contaminated_food", "aquaculture:fish_fillet_raw", "silentgems:uncooked_fishy_stew", "silentgems:uncooked_meaty_stew"]
+	blacklist = ["minecraft:poisonous_potato", "minecraft:rotten_flesh", "minecraft:porkchop", "minecraft:tropical_fish", "minecraft:pufferfish", "minecraft:salmon", "minecraft:beef", "minecraft:mutton", "minecraft:chicken", "minecraft:rabbit", "minecraft:cod", "xlfoodmod:raw_chicken_wing", "xlfoodmod:ground_beef", "xlfoodmod:dough", "rats:raw_rat", "rats:ratfish", "rats:contaminated_food", "aquaculture:fish_fillet_raw", "silentgems:uncooked_fishy_stew", "silentgems:uncooked_meaty_stew", "netherex:ghast_meat"]
 	#When this list contains anything, the blacklist is ignored and instead only foods from here count.
 	whitelist = []
 
