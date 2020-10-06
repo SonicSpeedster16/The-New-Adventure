@@ -4,12 +4,16 @@
 
 print("==== Initializing tags.zs ====");
 
-# Add missing tags to seeds
+# Seeds
 <tag:forge:seeds>.addItems([<item:xlfoodmod:pepper_seeds>]);
 <tag:forge:seeds>.addItems([<item:xlfoodmod:corn_seeds>]);
 <tag:forge:seeds>.addItems([<item:xlfoodmod:cucumber_seeds>]);
 <tag:forge:seeds>.addItems([<item:xlfoodmod:lettuce_seeds>]);
 <tag:forge:seeds>.addItems([<item:xlfoodmod:tomato_seeds>]);
 <tag:forge:seeds>.addItems([<item:xlfoodmod:strawberry_seeds>]);
+
+# Salt
+<tag:forge:dusts/salt>.addItems([<item:xlfoodmod:salt>]);
+<tag:forge:salt>.addItems([<item:xlfoodmod:salt>]);
 
 print("==== Initialized tags.zs ====");

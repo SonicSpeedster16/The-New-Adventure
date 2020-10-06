@@ -13,6 +13,7 @@ craftingTable.removeRecipe(<item:jaopca:storage_blocks.mana_diamond>);
 craftingTable.removeRecipe(<item:jaopca:storage_blocks.nether_brick>);
 craftingTable.removeRecipe(<item:jaopca:storage_blocks.obsidian>);
 craftingTable.removeRecipe(<item:jaopca:storage_blocks.salt>);
+craftingTable.removeByName("jaopca:storage_blocks.to_material.salt");
 
 
 # Add crafting recipes as an alternate means of obtaining some alloys
