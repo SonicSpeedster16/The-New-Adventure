@@ -13,6 +13,13 @@ print("==== Initializing tags.zs ====");
 <tag:forge:mushrooms>.addItems([<item:netherex:red_elder_mushroom>]);
 <tag:forge:mushrooms>.addItems([<item:netherex:enoki_mushroom>]);
 
+# Netherrack
+<tag:forge:netherrack>.addItems([<item:netherex:gloomy_netherrack>]);
+<tag:forge:netherrack>.addItems([<item:netherex:lively_netherrack>]);
+<tag:forge:netherrack>.addItems([<item:netherex:fiery_netherrack>]);
+<tag:forge:netherrack>.addItems([<item:netherex:icy_netherrack>]);
+<tag:forge:netherrack>.addItems([<item:byg:blue_netherrack>]);
+
 # Seeds
 <tag:forge:seeds>.addItems([<item:xlfoodmod:pepper_seeds>]);
 <tag:forge:seeds>.addItems([<item:xlfoodmod:corn_seeds>]);
