@@ -25,6 +25,7 @@
 # =============== Script Changes =============== #
 
 - Added an alternative method for obtaining some alloys.
+- Added More items that can be used in the Bioreactor.
 - Fixed some duplicate/conflicting recipes.
 - Properly tagged salt, mushrooms, & saplings.
 
