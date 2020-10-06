@@ -67,4 +67,14 @@ craftingTable.addShaped("redstone_alloy_dust", <item:silents_mechanisms:redstone
     [<tag:forge:dusts/redstone>]
 ]);
 
+craftingTable.addShaped("aluminum_steel_dust", <item:silents_mechanisms:aluminum_steel_dust> * 3, [
+    [<tag:forge:dusts/steel>, <tag:forge:dusts/coal>],
+    [<tag:forge:dusts/aluminum>]
+]);
+
+craftingTable.addShaped("bisuth_steel_dust", <item:silents_mechanisms:bismuth_steel_dust> * 3, [
+    [<tag:forge:dusts/steel>, <tag:forge:dusts/coal>],
+    [<tag:forge:dusts/bismuth>]
+]);
+
 print("==== Initialized jaopca.zs ====");
