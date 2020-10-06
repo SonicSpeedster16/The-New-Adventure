@@ -64,5 +64,13 @@ mods.jei.JEI.hideItem(<item:immersiveengineering:ingot_electrum>);
 mods.jei.JEI.hideItem(<item:immersiveengineering:ingot_steel>);
 mods.jei.JEI.hideItem(<item:silentgems:silver_ingot>);
 mods.jei.JEI.hideItem(<item:appliedenergistics2:silicon>);
+mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.certus_quartz>);
+mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.brick>);
+mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.dragonstone>);
+mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.lapis_lazuli>);
+mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.mana_diamond>);
+mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.nether_brick>);
+mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.obsidian>);
+mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.salt>);
 
 print("==== Initialized jei.zs ====");

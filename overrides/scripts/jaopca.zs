@@ -4,7 +4,18 @@
 
 print("==== Initializing jaopca.zs ====");
 
-# Add crafting recipes as an alternate means of obtaining alloys
+# Remove extraneous recipes
+craftingTable.removeRecipe(<item:jaopca:storage_blocks.certus_quartz>);
+craftingTable.removeRecipe(<item:jaopca:storage_blocks.brick>);
+craftingTable.removeRecipe(<item:jaopca:storage_blocks.dragonstone>);
+craftingTable.removeRecipe(<item:jaopca:storage_blocks.lapis_lazuli>);
+craftingTable.removeRecipe(<item:jaopca:storage_blocks.mana_diamond>);
+craftingTable.removeRecipe(<item:jaopca:storage_blocks.nether_brick>);
+craftingTable.removeRecipe(<item:jaopca:storage_blocks.obsidian>);
+craftingTable.removeRecipe(<item:jaopca:storage_blocks.salt>);
+
+
+# Add crafting recipes as an alternate means of obtaining some alloys
 
 craftingTable.addShaped("Enderium_Dust", <item:silents_mechanisms:enderium_dust> * 4, [
     [<tag:forge:dusts/lead>, <tag:forge:dusts/lead>, <tag:forge:dusts/lead>],

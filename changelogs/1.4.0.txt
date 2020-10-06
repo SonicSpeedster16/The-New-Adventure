@@ -25,5 +25,6 @@
 # =============== Script Changes =============== #
 
 - Added an alternative method for obtaining some alloys.
+- Fixed some duplicate/conflicting recipes.
 
 # ============================================== #
