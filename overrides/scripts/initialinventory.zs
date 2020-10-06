@@ -11,13 +11,12 @@ mods.initialinventory.InvHandler.addStartingItem("doggycharm", <item:doggytalent
 # Mod guides
 mods.initialinventory.InvHandler.addStartingItem("rftoolsguide", <item:rftoolsbase:manual>, 9);
 mods.initialinventory.InvHandler.addStartingItem("naturesauraguide", <item:patchouli:guide_book>.withTag({"patchouli:book": "naturesaura:book" as string}), 10);
-mods.initialinventory.InvHandler.addStartingItem("arsnouveauguide", <item:ars_nouveau:worn_notebook>, 11);
 mods.initialinventory.InvHandler.addStartingItem("immersiveengineeringguide", <item:immersiveengineering:manual>, 12);
 mods.initialinventory.InvHandler.addStartingItem("engineersdecorguide", <item:patchouli:guide_book>.withTag({"patchouli:book": "engineersdecor:engineersdecor_manual" as string}), 13);
 mods.initialinventory.InvHandler.addStartingItem("modularroutersguide", <item:patchouli:guide_book>.withTag({"patchouli:book": "modularrouters:book" as string}), 14);
 mods.initialinventory.InvHandler.addStartingItem("advancedtransportguide", <item:patchouli:guide_book>.withTag({"patchouli:book": "transport:guide" as string}), 15);
 mods.initialinventory.InvHandler.addStartingItem("powahmanual", <item:powah:book>, 16);
-mods.initialinventory.InvHandler.addStartingItem("bigbookofbees", <item:patchouli:guide_book>.withTag({"patchouli:book": "productivebees:guide" as string}), 17);
+mods.initialinventory.InvHandler.addStartingItem("bigbookofbees", <item:patchouli:guide_book>.withTag({"patchouli:book": "productivebees:guide" as string}), 11);
 
 # Server items
 mods.initialinventory.InvHandler.addStartingItem("spotloader", <item:chickenchunks:spot_loader>, 3);
