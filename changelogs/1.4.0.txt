@@ -20,12 +20,13 @@
 
 # =============== Config Changes =============== #
 
+- Prevent the cardboard box from picking up certain blocks (to prevent crashes and griefing).
 - Added Raw Ghast Meat to the SoL blacklist.
 
 # =============== Script Changes =============== #
 
 - Added an alternative method for obtaining some alloys.
-- Added More items that can be used in the Bioreactor.
+- Added more items that can be used in the Bioreactor.
 - Fixed some duplicate/conflicting recipes.
 - Properly tagged salt, mushrooms, & saplings.
 
