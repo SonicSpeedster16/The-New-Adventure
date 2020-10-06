@@ -20,7 +20,7 @@ mods.jei.JEI.addInfo(<item:silents_mechanisms:platinum_ore>, ["Platinum Ore can 
 mods.jei.JEI.addInfo(<item:silents_mechanisms:zinc_ore>, ["Zinc Ore can be found in the Overworld between Y levels 20 to 60."]);
 mods.jei.JEI.addInfo(<item:silents_mechanisms:bismuth_ore>, ["Bismuth Ore can be found in the Overworld between Y levels 16 to 64."]);
 mods.jei.JEI.addInfo(<item:silents_mechanisms:bauxite_ore>, ["Bauxite Ore can be found in the Overworld between Y levels 15 to 50."]);
-mods.jei.JEI.addInfo(<item:silents_mechanisms:uranium_ore>, ["Uranium Ore can be found in the Overworld between Y levels 15 to 50."]);
+mods.jei.JEI.addInfo(<item:silents_mechanisms:uranium_ore>, ["Uranium Ore can be found in the Overworld between Y levels 0 to 24."]);
 mods.jei.JEI.addInfo(<item:tmechworks:aluminum_ore>, ["Aluminum Ore can be found in the Overworld between Y levels 15 to 50."]);
 mods.jei.JEI.addInfo(<item:silentgear:crimson_iron_ore>, ["Crimson Iron Ore can be found in the Nether."]);
 mods.jei.JEI.addInfo(<item:silentgear:azure_silver_ore>, ["Azure Silver Ore can be found in the End."]);

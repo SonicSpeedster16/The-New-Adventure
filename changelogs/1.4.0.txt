@@ -22,6 +22,7 @@
 
 - Prevent the cardboard box from picking up certain blocks (to prevent crashes and griefing).
 - Added Raw Ghast Meat to the SoL blacklist.
+- Increased the range of Uranium ore spawns.
 
 # =============== Script Changes =============== #
 

@@ -113,7 +113,7 @@
 			veinCount = 2
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
-			maxHeight = 18
+			maxHeight = 24
 			#Size of veins
 			#Range: 0 ~ 100
 			veinSize = 4
