@@ -16,4 +16,9 @@ print("==== Initializing tags.zs ====");
 <tag:forge:dusts/salt>.addItems([<item:xlfoodmod:salt>]);
 <tag:forge:salt>.addItems([<item:xlfoodmod:salt>]);
 
+# Mushrooms
+<tag:forge:mushrooms>.addItems([<item:netherex:brown_elder_mushroom>]);
+<tag:forge:mushrooms>.addItems([<item:netherex:red_elder_mushroom>]);
+<tag:forge:mushrooms>.addItems([<item:netherex:enoki_mushroom>]);
+
 print("==== Initialized tags.zs ====");
