@@ -22,5 +22,6 @@
 
 # =============== Script Changes =============== #
 
+- Added an alternative method for obtaining some alloys.
 
 # ============================================== #
