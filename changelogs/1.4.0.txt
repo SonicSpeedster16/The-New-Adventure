@@ -35,6 +35,7 @@
 - Added some missing Hide > Leather recipes.
 - Torches can now be made with the campfire.
 - Fixed some duplicate/conflicting recipes.
+- Added shapeless recipe to convert Flax String to vanilla String.
 - Properly tagged salt, mushrooms, & saplings.
 
 # ============================================== #

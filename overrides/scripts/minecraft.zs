@@ -30,4 +30,7 @@ craftingTable.addShaped("black_salamander_hide_leather_conv", <item:minecraft:le
 # Use the campfire to create torches
 campfire.addRecipe("campfire_torch", <item:minecraft:torch>, <tag:forge:rods/wooden>, 0, 100);
 
+# Flax > String
+craftingTable.addShapeless("flax2string", <item:minecraft:string>, [<item:silentgear:flax_string>]);
+
 print("==== Initialized minecraft.zs ====");
