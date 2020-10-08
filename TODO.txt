@@ -1,2 +1,4 @@
 Add Ice and Fire
 Add Super Multi-Drills
+
+Add crushing recipes for Fluix, Bonemeal, Certus, Dimensional Shard
