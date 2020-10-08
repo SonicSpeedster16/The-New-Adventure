@@ -17,4 +17,7 @@ craftingTable.addShaped("zombie_leather_conv", <item:minecraft:leather>, [
     [<item:silents_mechanisms:zombie_leather>, <item:silents_mechanisms:zombie_leather>]
 ]);
 
+# Use the campfire to create torches
+campfire.addRecipe("campfire_torch", <item:minecraft:torch>, <tag:forge:rods/wooden>, 0, 100);
+
 print("==== Initialized minecraft.zs ====");
