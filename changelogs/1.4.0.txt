@@ -36,6 +36,7 @@
 - Torches can now be made with the campfire.
 - Fixed some duplicate/conflicting recipes.
 - Added shapeless recipe to convert Flax String to vanilla String.
+- Added missing recipe for XNet Connector Upgrade Kit.
 - Properly tagged salt, mushrooms, & saplings.
 
 # ============================================== #
