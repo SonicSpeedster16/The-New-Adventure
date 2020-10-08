@@ -22,12 +22,15 @@ mods.jei.JEI.addInfo(<item:silents_mechanisms:bismuth_ore>, ["Bismuth Ore can be
 mods.jei.JEI.addInfo(<item:silents_mechanisms:bauxite_ore>, ["Bauxite Ore can be found in the Overworld between Y levels 15 to 50."]);
 mods.jei.JEI.addInfo(<item:silents_mechanisms:uranium_ore>, ["Uranium Ore can be found in the Overworld between Y levels 0 to 24."]);
 mods.jei.JEI.addInfo(<item:tmechworks:aluminum_ore>, ["Aluminum Ore can be found in the Overworld between Y levels 15 to 50."]);
-mods.jei.JEI.addInfo(<item:silentgear:crimson_iron_ore>, ["Crimson Iron Ore can be found in the Nether."]);
-mods.jei.JEI.addInfo(<item:silentgear:azure_silver_ore>, ["Azure Silver Ore can be found in the End."]);
+mods.jei.JEI.addInfo(<item:silentgear:crimson_iron_ore>, ["Crimson Iron Ore can only be found in the Nether."]);
+mods.jei.JEI.addInfo(<item:silentgear:azure_silver_ore>, ["Azure Silver Ore can only be found in the End."]);
 mods.jei.JEI.addInfo(<item:netherex:rime_ore>, ["Nether Rime Ore can be found in the Nether."]);
 mods.jei.JEI.addInfo(<item:mekanism:osmium_ore>, ["Osmium Ore can be found in the Overworld between Y levels 0 to 60."]);
 mods.jei.JEI.addInfo(<item:mekanism:copper_ore>, ["Copper Ore can be found in the Overworld between Y levels 0 to 60."]);
 mods.jei.JEI.addInfo(<item:mekanism:tin_ore>, ["Tin Ore can be found in the Overworld between Y levels 0 to 60."]);
+mods.jei.JEI.addInfo(<item:rftoolsbase:dimensionalshard_overworld>, ["Dimensional Shard Ore can be found in the Overworld between Y levels 2 to 40.", "NOTE: It is much more abundant in the Nether."]);
+mods.jei.JEI.addInfo(<item:rftoolsbase:dimensionalshard_nether>, ["Can be found in the Nether between Y levels 2 to 80."]);
+mods.jei.JEI.addInfo(<item:rftoolsbase:dimensionalshard_end>, ["Can only be found in the End."]);
 
 # Hide ores not generated in the world
 mods.jei.JEI.hideItem(<item:silents_mechanisms:copper_ore>);
