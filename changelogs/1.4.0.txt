@@ -26,11 +26,14 @@
 - Prevent the cardboard box from picking up certain blocks (to prevent crashes and griefing).
 - Added Raw Ghast Meat to the SoL blacklist.
 - Increased the range of Uranium ore spawns.
+- Increased the range of Dimensional Shard Ore spawns in the Nether.
 
 # =============== Script Changes =============== #
 
 - Added an alternative method for obtaining some alloys.
 - Added more items that can be used in the Bioreactor.
+- Added some missing Hide > Leather recipes.
+- Torches can now be made with the campfire.
 - Fixed some duplicate/conflicting recipes.
 - Properly tagged salt, mushrooms, & saplings.
 
