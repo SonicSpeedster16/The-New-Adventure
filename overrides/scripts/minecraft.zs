@@ -17,6 +17,16 @@ craftingTable.addShaped("zombie_leather_conv", <item:minecraft:leather>, [
     [<item:silents_mechanisms:zombie_leather>, <item:silents_mechanisms:zombie_leather>]
 ]);
 
+# Convert hides to Leather
+craftingTable.addShaped("orange_salamander_hide_leather_conv", <item:minecraft:leather>, [
+    [<item:netherex:orange_salamander_hide>, <item:netherex:orange_salamander_hide>],
+    [<item:netherex:orange_salamander_hide>, <item:netherex:orange_salamander_hide>]
+]);
+craftingTable.addShaped("black_salamander_hide_leather_conv", <item:minecraft:leather>, [
+    [<item:netherex:black_salamander_hide>, <item:netherex:black_salamander_hide>],
+    [<item:netherex:black_salamander_hide>, <item:netherex:black_salamander_hide>]
+]);
+
 # Use the campfire to create torches
 campfire.addRecipe("campfire_torch", <item:minecraft:torch>, <tag:forge:rods/wooden>, 0, 100);
 
