@@ -128,10 +128,10 @@
 	["Spatial Harvesters - Common Config: "."Custom Harvester Outputs: "]
 		#Custom outputs for the Soil Harvester.
 		custom_soils = []
-		#Custom drops for the Mob Harvester when set to the Ender Dragon
-		custom_dragon_drops = [["minecraft", "elytra"], ["minecraft", "dragon_head"], ["minecraft", "dragon_egg"], ["minecraft", "dragon_breath"]]
 		#Custom outputs for the Stone Harvester.
 		custom_stones = []
+		#Custom drops for the Mob Harvester when set to the Ender Dragon
+		custom_mob_drops = [[["minecraft", "ender_dragon"], ["minecraft", "elytra"]], [["minecraft", "ender_dragon"], ["minecraft", "dragon_head"]], [["minecraft", "ender_dragon"], ["minecraft", "dragon_egg"]], [["minecraft", "ender_dragon"], ["minecraft", "dragon_breath"]]]
 		#Custom outputs for the Ore Harvester.
 		custom_ores = [["appliedenergistics2", "quartz_ore"], ["appliedenergistics2", "charged_quartz_ore"], ["rftoolsbase", "dimensionalshard_overworld"], ["rftoolsbase", "dimensionalshard_nether"], ["rftoolsbase", "dimensionalshard_end"], ["ars_nouveau", "arcane_ore"], ["rhodonite", "block_ore_fluorite"], ["rhodonite", "block_ore_rhodonite"], ["exp_ore", "block_exp_ore"], ["rockcandy", "candy_ore"], ["lightestlamp", "boron_ore"], ["funores", "zombie_ore"], ["funores", "blaze_ore"], ["funores", "ghast_ore"], ["funores", "magma_cube_ore"], ["funores", "wither_skeleton_ore"], ["funores", "zombie_pigman_ore"], ["funores", "salmon_ore"], ["funores", "squid_ore"], ["funores", "cod_ore"], ["funores", "sheep_ore"], ["funores", "rabbit_ore"], ["funores", "pig_ore"], ["funores", "cow_ore"], ["funores", "chicken_ore"], ["funores", "bat_ore"], ["funores", "witch_ore"], ["funores", "spider_ore"], ["funores", "slime_ore"], ["funores", "phantom_ore"], ["funores", "skeleton_ore"], ["funores", "enderman_ore"], ["funores", "guardian_ore"], ["funores", "pufferfish_ore"], ["funores", "creeper_ore"], ["gobber2", "gobber2_ore"], ["gobber2", "gobber2_ore_nether"], ["gobber2", "gobber2_ore_end"]]
 		#Custom outputs for the Bio Harvester.
@@ -153,9 +153,18 @@
 		#Price for the Dimensional Applicator (in FE per operation)
 		#Range: > 0
 		price_dimensional_applicator = 1000
+		#Amount to multiply the price of the Dimensional Applicator by to set its energy capacity.
+		#Range: > 0
+		dimensional_applicator_capacity_multiplier = 100
 		#Price for the Mob Harvester (in FE per operation)
 		#Range: 0 ~ 214748363
 		price_mob = 8000
+		#Amount to multiply the price of the harvesters by to set their energy capacity.
+		#Range: > 0
+		harvester_capacity_multiplier = 10
+		#Amount to multiply the price of the Heat Generator by to set its energy capacity.
+		#Range: > 0
+		heat_generator_capacity_multiplier = 100
 
 		["Spatial Harvesters - Common Config: "."Machine Prices: "."Soil Harvester Prices: "]
 			#Price for the tier 1 Soil Harvester (in FE per operation)
@@ -261,6 +270,20 @@
 			#Range: 0 ~ 214748363
 			price_stone_8 = 8000
 
+	["Spatial Harvesters - Common Config: "."Enable / Disable: "]
+		#Should the Ore Harvesters have functionality?
+		enable_ore_harvesters = true
+		#Should the Heat Generator have functionality?
+		enable_heat_generator = true
+		#Should the Bio Harvesters have functionality?
+		enable_bio_harvesters = true
+		#Should the Stone Harvesters have functionality?
+		enable_stone_harvesters = true
+		#Should the Dimensional Applicator have functionality?
+		enable_dimensional_applicator = true
+		#Should the Soil Harvesters have functionality?
+		enable_soil_harvesters = true
+
 	["Spatial Harvesters - Common Config: ".Misc]
 
 		["Spatial Harvesters - Common Config: ".Misc.": "]
@@ -273,6 +296,9 @@
 			#Resistance for the blocks (Iron Block is 6.)
 			#Range: 0.0 ~ 3.4028234663852886E38
 			block_resistance = 6.0
+			#Light level for the machines to emit when active (a regular torch is 14, 0 to disable).
+			#Range: > 0
+			machine_light_level = 7
 
 	["Spatial Harvesters - Common Config: "."Dimensional Applicator Stats: "]
 		#Amplifier for the Dimensional Applicator (The final value will be this + 1.)

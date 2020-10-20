@@ -8,7 +8,7 @@
 - Updated Minecraft FORGE (31.2.43 > 31.2.45)
 
 - Added GeckoLib 2.0.0
-- Added Spatial Harvesters 0.7.26
+- Added Spatial Harvesters 0.8.0
 - Updated Absent by Design (1.1.0 > 1.1.1)
 - Updated Aquaculture 2 (2.0.16 > 2.0.21)
 - Updated Ars Nouveau (0.17.1 > 1.1.0)
