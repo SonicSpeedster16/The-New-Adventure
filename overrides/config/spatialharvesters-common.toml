@@ -7,11 +7,11 @@
 		#Blacklist for the Soil Harvesters (By mod)
 		blacklist_stones_mod = []
 		#Blacklist for the Mob Harvesters (By mod)
-		blacklist_mobs_mod = []
+		blacklist_mobs_mod = ["rats", "endermail", "doggytalents", "productivebees"]
 		#Blacklist for the Soil Harvesters (By mod)
 		blacklist_soils_mod = []
 		#Blacklist for the Soil Harvesters (By mod)
-		blacklist_bios_mod = ["botania", "naturesaura"]
+		blacklist_bios_mod = ["botania", "naturesaura", "rats"]
 
 	["Spatial Harvesters - Common Config: "."Machine Speeds: "]
 		#Speed for the Heat Generator (in FE per tick)
