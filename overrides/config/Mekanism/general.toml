@@ -5,7 +5,7 @@
 	#Range: > 1
 	maxUpgradeMultiplier = 10
 	#Any mod ids added to this list will not be able to have any of their blocks, picked up by the cardboard box.
-	cardboardModBlacklist = ["waystones", "appliedenergistics2", "refinedstorage", "create", "immersiveengineering", "xnet"]
+	cardboardModBlacklist = ["waystones", "appliedenergistics2", "refinedstorage", "create", "immersiveengineering", "xnet", "quarryplus", "spatialharvesters", "wards"]
 	#Disable to make the anchor upgrade not do anything.
 	allowChunkloading = true
 	#How much heat energy is created from one Joule of regular energy in the Resistive Heater.
