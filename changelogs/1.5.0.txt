@@ -13,5 +13,6 @@
 # =============== Script Changes =============== #
 
 - Properly tagged all types of plastic.
+- Add other missing tags to items.
 
 # ============================================== #

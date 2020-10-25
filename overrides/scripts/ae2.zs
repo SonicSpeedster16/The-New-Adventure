@@ -21,4 +21,8 @@ furnace.addRecipe("tag_quartz_dust_silicon", <item:refinedstorage:silicon>, <tag
 # Add shapeless conversion recipe for silicon
 craftingTable.addShapeless("silicon_ae2-rs", <item:refinedstorage:silicon>, [<item:appliedenergistics2:silicon>]);
 
+# Tag Sky Stone Chests as chests
+<tag:forge:chests>.addItems([<item:appliedenergistics2:sky_stone_chest>]);
+<tag:forge:chests>.addItems([<item:appliedenergistics2:smooth_sky_stone_chest>]);
+
 print("==== Initialized ae2.zs ====");
