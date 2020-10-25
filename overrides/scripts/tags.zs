@@ -70,4 +70,7 @@ print("==== Initializing tags.zs ====");
 <tag:forge:sapling>.addItems([<item:byg:yellow_birch_sapling>]);
 <tag:forge:sapling>.addItems([<item:byg:yellow_spruce_sapling>]);
 
+# Misc.
+<tag:forge:ores>.addItems([<item:ars_nouveau:arcane_ore>]);
+
 print("==== Initialized tags.zs ====");
