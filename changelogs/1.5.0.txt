@@ -16,4 +16,8 @@
 - Properly tagged all types of plastic.
 - Add other missing tags to items.
 
+# ================== Datapacks ================= #
+
+- Added Silent Energistics 1.0.0
+
 # ============================================== #
