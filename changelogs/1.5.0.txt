@@ -15,6 +15,7 @@
 
 - Properly tagged all types of plastic.
 - Add other missing tags to items.
+- Create nuggets now properly work in compacting drawers.
 
 # ================== Datapacks ================= #
 

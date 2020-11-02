@@ -15,6 +15,10 @@ craftingTable.removeRecipe(<item:jaopca:storage_blocks.obsidian>);
 craftingTable.removeRecipe(<item:jaopca:storage_blocks.salt>);
 craftingTable.removeByName("jaopca:storage_blocks.to_material.salt");
 
+# Remove conflicting recipes
+craftingTable.removeByName("create:crafting_shaped/materials/copper_ingot");
+craftingTable.removeByName("create:crafting_shaped/materials/zinc_ingot");
+craftingTable.removeByName("create:crafting_shaped/materials/brass_ingot");
 
 # Add crafting recipes as an alternate means of obtaining some alloys
 
