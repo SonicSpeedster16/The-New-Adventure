@@ -1,4 +1,5 @@
-Add Ice and Fire
-Add Super Multi-Drills
+Add crushing recipes for Bonemeal, Dimensional Shard, Arcane Ore
+Add shapeless recipes for cheese and salt conversion
+Review Cloche/Squeezer compat (Silent's, XLFood)
 
-Add crushing recipes for Bonemeal, Dimensional Shard
+Double check Sky Stone Chests tagging.

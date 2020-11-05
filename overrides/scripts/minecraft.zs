@@ -11,13 +11,11 @@ craftingTable.addShaped("lantern_alt", <item:minecraft:lantern>, [
     [<item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>]
 ]);
 
-# Add method for converting Zombie Leather to vanilla Leather
+# Convert hides and modded leathers to vanilla leather
 craftingTable.addShaped("zombie_leather_conv", <item:minecraft:leather>, [
     [<item:silents_mechanisms:zombie_leather>, <item:silents_mechanisms:zombie_leather>],
     [<item:silents_mechanisms:zombie_leather>, <item:silents_mechanisms:zombie_leather>]
 ]);
-
-# Convert hides to Leather
 craftingTable.addShaped("orange_salamander_hide_leather_conv", <item:minecraft:leather>, [
     [<item:netherex:orange_salamander_hide>, <item:netherex:orange_salamander_hide>],
     [<item:netherex:orange_salamander_hide>, <item:netherex:orange_salamander_hide>]
