@@ -1,0 +1,11 @@
+{
+    "type": "mekanism:crushing",
+    "input": {
+      "ingredient": {
+        "tag": "forge:ender_pearls"
+      }
+    },
+    "output": {
+      "item": "appliedenergistics2:ender_dust"
+    }
+  }

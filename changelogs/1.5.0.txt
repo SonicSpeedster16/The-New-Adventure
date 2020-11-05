@@ -36,6 +36,7 @@
 
 # ================== Datapacks ================= #
 
-- Added Silent Energistics 1.0.0
+- Added Mekanism processing recipes for AE2 dusts.
+- Added Silent Energistics datapack v1.0.0
 
 # ============================================== #
