@@ -4,8 +4,14 @@
 
 	#Biome pack configuration settings
 	[nether.biome_packs]
+		#Use Oh the Biomes You'll Go biome pack.
+		useBYGBiomePack = true
+		#Use global biome packs.
+		useGlobalBiomePacks = true
 		#Use the default biome pack.
 		useDefaultBiomePack = true
+		#Use the Extended Nether Backport biome pack.
+		useENBBiomePack = true
 		#Use the Biomes O' Plenty biome pack.
 		useBOPBiomePack = false
 		#Use the NetherEx biome pack.
