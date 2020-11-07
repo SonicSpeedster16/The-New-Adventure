@@ -25,6 +25,13 @@ craftingTable.addShaped("black_salamander_hide_leather_conv", <item:minecraft:le
     [<item:netherex:black_salamander_hide>, <item:netherex:black_salamander_hide>]
 ]);
 
+# Add recipe for Elytra
+craftingTable.addShaped("elytra_custom", <item:minecraft:elytra>.withTag({Damage: 0 as int}), [
+    [<item:minecraft:end_rod>, <item:curios:amulet>, <item:minecraft:end_rod>],
+    [<item:minecraft:diamond>, <item:minecraft:dragon_egg>, <item:minecraft:diamond>],
+    [<item:minecraft:diamond>, <item:minecraft:dragon_breath>, <item:minecraft:diamond>]
+]);
+
 # Use the campfire to create torches
 campfire.addRecipe("campfire_torch", <item:minecraft:torch>, <tag:forge:rods/wooden>, 0, 100);
 
