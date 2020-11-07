@@ -53,7 +53,10 @@ waypointTp:tp @s
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
-playerHeads:false
+playerIcons:1
+mobIcons:0
+hostileIcons:0
+tamedIcons:3
 heightLimit:20
 worldMap:true
 terrainDepth:true

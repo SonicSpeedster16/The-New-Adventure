@@ -7,7 +7,7 @@
 
 - Added Global Data- & Resourcepacks 1.3
 - Updated Applied Energistics 2 (7.0.4 > 7.0.5)
-- Updated Aquaculture 2 (2.0.21 > 2.0.22)
+- Updated Aquaculture 2 (2.0.21 > 2.0.23)
 - Updated Ars Nouveau ( 1.1.0 > 1.3.0)
 - Updated Building Gadgets (3.4.0 > 3.4.1)
 - Updated CC: Tweaked (1.93.0 > 1.93.1)
@@ -17,11 +17,12 @@
 - Updated MineColonies (0.13.359 > 0.13.415)
 - Updated NetherEx (4.0.0 > 4.0.1)
 - Updated RFTools Control (3.0.8 > 3.0.9)
+- Updated RFTools Utility (2.1.12 > 2.1.13)
 - Updated Scannable (1.7.0.12 > 1.7.0.14)
 - Updated Spatial Harvesters (0.8.0 > 0.9.7)
 - Updated Storage Drawers (7.0.2 > 7.0.3)
 - Updated Wards (1.4.0 > 1.4.1)
-- Updated Xaero's Minimap (20.25.1 > 20.26.0)
+- Updated Xaero's Minimap (20.25.1 > 20.27.2)
 - Updated XNet (2.1.11 > 2.1.12)
 
 # =============== Config Changes =============== #
