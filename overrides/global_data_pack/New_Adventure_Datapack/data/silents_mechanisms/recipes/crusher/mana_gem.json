@@ -1,0 +1,21 @@
+{
+  "type": "silents_mechanisms:crushing",
+  "process_time": 400,
+  "ingredient": {
+    "item": "ars_nouveau:arcane_ore"
+  },
+  "results": [
+    {
+      "item": "ars_nouveau:mana_gem",
+      "count": 2
+    },
+    {
+      "item": "ars_nouveau:mana_gem",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.1
+    }
+  ]
+}
