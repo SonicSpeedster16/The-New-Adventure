@@ -1,0 +1,13 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 400,
+    "ingredient": {
+        "item": "minecraft:bone"
+    },
+    "results": [
+        {
+            "item": "minecraft:bone_meal",
+            "count": 4
+        }
+    ]
+}

@@ -38,6 +38,8 @@
 # ================== Datapacks ================= #
 
 - Added Mekanism processing recipes for AE2 dusts.
+- Added Crushing recipes for bone meal.
+
 - Added Silent Energistics datapack v1.0.0
 
 # ============================================== #
