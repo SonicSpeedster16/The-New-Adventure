@@ -1,0 +1,13 @@
+{
+  "type": "silents_mechanisms:compressing",
+  "process_time": 400,
+  "ingredient": {
+    "value": {
+      "tag": "forge:plastic"
+    },
+    "count": 1
+  },
+  "result": {
+    "item": "silents_mechanisms:plastic_sheet"
+  }
+}

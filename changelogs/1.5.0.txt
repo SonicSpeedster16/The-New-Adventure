@@ -35,8 +35,8 @@
 
 # =============== Script Changes =============== #
 
-- Properly tagged all types of plastic.
-- Add other missing tags to items.
+- Add alternate method of obtaining Plastic Sheets.
+- Add some missing tags to various items.
 - Create nuggets now properly work in compacting drawers.
 - Rats cheese can be converted to XL Food cheese and vice versa.
 - The Elytra now has a crafting recipe.
