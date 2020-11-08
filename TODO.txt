@@ -1,5 +1,3 @@
-Add crushing recipes for Bonemeal, Dimensional Shard, Arcane Ore
 Review Cloche/Squeezer compat (Silent's, XLFood)
 
-Add Elytra recipe
-Replace Chicken Chunks with Chunk Loaders.
+Replace Chicken Chunks with Chunk Loaders?
