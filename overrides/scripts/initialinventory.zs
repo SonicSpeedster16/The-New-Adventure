@@ -19,6 +19,6 @@ mods.initialinventory.InvHandler.addStartingItem("powahmanual", <item:powah:book
 mods.initialinventory.InvHandler.addStartingItem("bigbookofbees", <item:patchouli:guide_book>.withTag({"patchouli:book": "productivebees:guide" as string}), 11);
 
 # Server items
-mods.initialinventory.InvHandler.addStartingItem("spotloader", <item:chickenchunks:spot_loader>, 3);
+mods.initialinventory.InvHandler.addStartingItem("singlechunkloader", <item:chunkloaders:single_chunk_loader>, 3);
 
 print("==== Initialized initialinventory.zs ====");

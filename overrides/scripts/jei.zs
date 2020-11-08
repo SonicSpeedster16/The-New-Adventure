@@ -76,4 +76,10 @@ mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.nether_brick>);
 mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.obsidian>);
 mods.jei.JEI.hideItem(<item:jaopca:storage_blocks.salt>);
 
+# Add Tooltip to chunk loaders
+mods.jei.JEI.addInfo(<item:chunkloaders:single_chunk_loader>, ["Can load a single chunk."]);
+mods.jei.JEI.addInfo(<item:chunkloaders:basic_chunk_loader>, ["Can load chunks in a 3x3 area."]);
+mods.jei.JEI.addInfo(<item:chunkloaders:advanced_chunk_loader>, ["Can load chunks in a 5x5 area."]);
+mods.jei.JEI.addInfo(<item:chunkloaders:ultimate_chunk_loader>, ["Can load chunks in a 7x7 area."]);
+
 print("==== Initialized jei.zs ====");

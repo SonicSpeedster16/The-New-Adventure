@@ -1,3 +1,1 @@
 Review Cloche/Squeezer compat (Silent's, XLFood)
-
-Replace Chicken Chunks with Chunk Loaders?
