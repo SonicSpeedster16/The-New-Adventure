@@ -7,6 +7,15 @@
 
 - Updated Minecraft Forge (31.2.45 > 31.2.46)
 
+- Updated Chunk Loaders (1.1.0 > 1.1.0a)
+- Updated CraftTweaker (6.0.0.44 > 6.0.0.45)
+- Updated Dungeon Crawl (2.1.1 > 2.2.1)
+- Updated MineColonies (0.13.424 > 0.13.441)
+- Updated Performant (3.11m > 3.12m)
+- Updated RF Tools Builder (2.1.12 > 2.1.13)
+- Updated Spatial Harvesters (0.9.8 > 0.9.9)
+- Updated XNet (2.1.12 > 2.1.13)
+
 # =============== Config Changes =============== #
 
 
