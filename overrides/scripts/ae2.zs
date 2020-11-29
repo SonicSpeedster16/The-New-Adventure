@@ -6,12 +6,13 @@ print("==== Initializing ae2.zs ====");
 
 # Tag items from other mods to work with AE2
 <tag:appliedenergistics2:dusts/quartz>.addItems([<item:mekanism:dust_quartz>]);
+<tag:appliedenergistics2:dusts/nether_quartz>.addItems([<item:mekanism:dust_quartz>]);
 <tag:appliedenergistics2:silicon>.addItems([<item:refinedstorage:silicon>]);
 
 # Any Nether Quartz Dust should work to craft seeds
 craftingTable.removeRecipe(<item:appliedenergistics2:nether_quartz_seed>);
 craftingTable.addShaped("nether_quartz_seed_tagged", <item:appliedenergistics2:nether_quartz_seed> * 2, [
-    [<tag:forge:sand>, <tag:appliedenergistics2:dusts/quartz>]
+    [<tag:forge:sand>, <tag:appliedenergistics2:dusts/nether_quartz>]
 ]);
 
 # Any Nether Quartz Dust should be smeltable into silicon

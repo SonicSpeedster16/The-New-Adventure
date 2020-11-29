@@ -29,6 +29,7 @@
 
 # =============== Script Changes =============== #
 
+- Fixed Quartz Seed recipe.
 
 # ================== Datapacks ================= #
 
