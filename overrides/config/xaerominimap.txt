@@ -42,6 +42,8 @@ antiAliasing:true
 blockColours:0
 lighting:true
 dotsScale:1.0
+headsScale:1.0
+dotNameScale:1.0
 compassOverWaypoints:false
 showBiome:true
 showEntityHeight:true
