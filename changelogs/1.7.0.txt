@@ -5,6 +5,7 @@
 
 # ================= Mod Changes ================ #
 
+- Added Better Animals Plus (10.0.0)
 - Added Inventory Pets (2.0.7)
 - Added PneumaticCraft: Repressurized (1.5.3-89)
 - Added Reliquary v1.3 (1.3.4.1018)
