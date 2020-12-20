@@ -5,7 +5,11 @@
 
 # ================= Mod Changes ================ #
 
+
+- Added Entangled (1.2.9)
+- Added Immersive Posts (2.2.0)
 - Added Inventory Pets (2.0.7)
+- Added Lantern Colors (1.0.1)
 - Added PneumaticCraft: Repressurized (1.5.3-89)
 - Added Reliquary v1.3 (1.3.4.1018)
 - Updated ConnectedTexturesMod (1.1.1.13 > 1.1.2.14)
