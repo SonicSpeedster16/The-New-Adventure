@@ -4,8 +4,9 @@
 
 print("==== Initializing xnet.zs ====");
 
-# Add missing recipe for Connector Upgrade Kit
-craftingTable.addShaped("xnet_connector_upgrade", <item:xnet:connector_upgrade>, [
+# Add custom recipe for Connector Upgrade Kit to avoid conflicts
+craftingTable.removeRecipe(<item:xnet:connector_upgrade>);
+craftingTable.addShaped("xnet_connector_upgrade_custom", <item:xnet:connector_upgrade>, [
     [<item:minecraft:paper>, <item:minecraft:ender_pearl>],
     [<item:minecraft:diamond>, <item:minecraft:gold_nugget>]
 ]);
